@@ -1,0 +1,26 @@
+{
+  "name": "cache-helper",
+  "version": "1.0.0",
+  "description": "Local storage helper to check support, set and get values.",
+  "author": "Aldo Gonzalez <aldogcarlos@gmail.com>",
+  "main": "./src/cache-helper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldogcarlos/cache-helper"
+  },
+  "keywords": [
+    "helper",
+    "javascript",
+    "cache",
+    "local",
+    "storage",
+    "session",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "2.0.0"
+  }
+}
